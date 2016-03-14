@@ -14,4 +14,8 @@
         app:showAsAction="never"
         android:title="实时交通(off)" />
 
+    <item
+        android:id="@+id/map_mylocation"
+        app:showAsAction="never"
+        android:title="我的位置" />
 </menu>
